@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays_Taks/Arrays_Taks.iml" filepath="$PROJECT_DIR$/Arrays_Taks/Arrays_Taks.iml" />
       <module fileurl="file://$PROJECT_DIR$/Eolymp.iml" filepath="$PROJECT_DIR$/Eolymp.iml" />
       <module fileurl="file://$PROJECT_DIR$/Task8924/Task8924.iml" filepath="$PROJECT_DIR$/Task8924/Task8924.iml" />
       <module fileurl="file://$PROJECT_DIR$/Task_8903/Task_8903.iml" filepath="$PROJECT_DIR$/Task_8903/Task_8903.iml" />
